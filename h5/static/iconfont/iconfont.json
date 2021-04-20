@@ -1,0 +1,30 @@
+{
+  "id": "2483441",
+  "name": "eurocup-m",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1125571",
+      "name": "发送",
+      "font_class": "fasong",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "19674252",
+      "name": "右箭头",
+      "font_class": "right",
+      "unicode": "eb1b",
+      "unicode_decimal": 60187
+    },
+    {
+      "icon_id": "2418284",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    }
+  ]
+}
